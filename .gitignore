@@ -1,0 +1,14 @@
+#IDE
+.idea/*
+
+#Node
+.npm
+.cache
+node_modules/
+dist/
+.node_repl_history
+
+# Github
+.github/
+
+

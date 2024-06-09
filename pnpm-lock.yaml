@@ -13,9 +13,13 @@ importers:
       electron-builder:
         specifier: 24.13.3
         version: 24.13.3(electron-builder-squirrel-windows@24.13.3(dmg-builder@24.13.3))
-      electron-installer-snap": 
+      electron-installer-snap: 
         specifier: 5.2.0
         version: 5.2.0
+    dependencies:
+      pnpm: 
+        specifier: 9.2.0
+        version: 9.2.0
 packages:
 
   7zip-bin@5.2.0:

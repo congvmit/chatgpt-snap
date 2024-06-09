@@ -23,7 +23,7 @@
   "author": "Cong Vo",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^29.2.0",
+    "electron": "29.2.0",
     "electron-builder": "24.13.3",
     "electron-installer-snap": "^5.2.0"
   }

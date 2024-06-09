@@ -26,5 +26,8 @@
     "electron": "29.2.0",
     "electron-builder": "24.13.3",
     "electron-installer-snap": "^5.2.0"
+  },
+  "dependencies": {
+    "pnpm": "^9.2.0"
   }
 }

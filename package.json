@@ -11,8 +11,8 @@
     "productName": "ChatGPT-Snap",
     "linux": {
       "target": "snap",
-      "category": "Utility",
-      "icon": "icon.jpg"
+      "category": "Productivity,Utility",
+      "icon": "icon.png"
     }
   },
   "keywords": [
@@ -24,6 +24,7 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^29.2.0",
-    "electron-builder": "24.13.3"
+    "electron-builder": "24.13.3",
+    "electron-installer-snap": "^5.2.0"
   }
 }
